@@ -1,0 +1,43 @@
+#game {
+  background: red;
+  width: 600px;
+  height: 300px;
+  position: relative;
+  margin: 0 auto;
+  overflow: hidden;
+  border-radius: 5px;
+  border: 2px solid black;
+}
+
+#ball {
+  background: salmon;
+  position: absolute;
+  width: 25px;
+  height: 20px;
+  left: 290px;
+  top: 140px;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+
+#t1 {
+  background: yellow
+  ;
+  position: absolute;
+  width: 20px;
+  height: 100px;
+  left: 20px;
+  top: 100px;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+#t2 {
+  background: yellow;
+  position: absolute;
+  width: 20px;
+  height: 100px;
+  left: 550px;
+  top: 100px;
+  border-radius: 10px;
+  border: 1px solid black;
+}
